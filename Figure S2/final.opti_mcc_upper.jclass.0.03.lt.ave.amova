@@ -1,0 +1,848 @@
+CTLXOS_24th_A-CTLXOS_24th_B-CTLXOS_24th_C-CTL_9th_A-CTL_9th_B-CTL_9th_C-GOS_24th_A-GOS_24th_B-GOS_24th_C-GOS_9th_A-GOS_9th_B-GOS_9th_C-XOS_9th_A-XOS_9th_B-XOS_9th_C	Among	Within	Total
+SS	6.92893	49.5757	56.5046
+df	14	176	190
+MS	0.494923	0.28168
+
+Fs:	1.75704
+p-value: <0.001*
+
+CTLXOS_24th_A-CTLXOS_24th_B	Among	Within	Total
+SS	0.416202	12.5676	12.9838
+df	1	43	44
+MS	0.416202	0.29227
+
+Fs:	1.42403
+p-value: 0.026
+
+CTLXOS_24th_A-CTLXOS_24th_C	Among	Within	Total
+SS	0.524789	13.0493	13.5741
+df	1	45	46
+MS	0.524789	0.289984
+
+Fs:	1.80971
+p-value: 0.002
+
+CTLXOS_24th_A-CTL_9th_A	Among	Within	Total
+SS	0.599271	8.84555	9.44482
+df	1	30	31
+MS	0.599271	0.294852
+
+Fs:	2.03245
+p-value: 0.004
+
+CTLXOS_24th_A-CTL_9th_B	Among	Within	Total
+SS	0.498215	8.68244	9.18066
+df	1	30	31
+MS	0.498215	0.289415
+
+Fs:	1.72146
+p-value: 0.002
+
+CTLXOS_24th_A-CTL_9th_C	Among	Within	Total
+SS	0.678733	9.42952	10.1083
+df	1	33	34
+MS	0.678733	0.285743
+
+Fs:	2.37533
+p-value: <0.001*
+
+CTLXOS_24th_A-GOS_24th_A	Among	Within	Total
+SS	0.355614	9.10261	9.45822
+df	1	32	33
+MS	0.355614	0.284457
+
+Fs:	1.25015
+p-value: 0.066
+
+CTLXOS_24th_A-GOS_24th_B	Among	Within	Total
+SS	0.364503	9.6312	9.9957
+df	1	33	34
+MS	0.364503	0.291855
+
+Fs:	1.24892
+p-value: 0.09
+
+CTLXOS_24th_A-GOS_24th_C	Among	Within	Total
+SS	0.561076	9.33251	9.89359
+df	1	33	34
+MS	0.561076	0.282803
+
+Fs:	1.98398
+p-value: <0.001*
+
+CTLXOS_24th_A-GOS_9th_A	Among	Within	Total
+SS	0.433322	8.65191	9.08523
+df	1	29	30
+MS	0.433322	0.298342
+
+Fs:	1.45244
+p-value: 0.029
+
+CTLXOS_24th_A-GOS_9th_B	Among	Within	Total
+SS	0.592733	9.19255	9.78528
+df	1	31	32
+MS	0.592733	0.296534
+
+Fs:	1.99887
+p-value: 0.005
+
+CTLXOS_24th_A-GOS_9th_C	Among	Within	Total
+SS	0.636061	9.61012	10.2462
+df	1	33	34
+MS	0.636061	0.291216
+
+Fs:	2.18416
+p-value: <0.001*
+
+CTLXOS_24th_A-XOS_9th_A	Among	Within	Total
+SS	0.562474	8.52701	9.08948
+df	1	29	30
+MS	0.562474	0.294035
+
+Fs:	1.91295
+p-value: 0.002
+
+CTLXOS_24th_A-XOS_9th_B	Among	Within	Total
+SS	0.614704	8.19357	8.80827
+df	1	29	30
+MS	0.614704	0.282537
+
+Fs:	2.17566
+p-value: <0.001*
+
+CTLXOS_24th_A-XOS_9th_C	Among	Within	Total
+SS	0.629911	9.1704	9.80031
+df	1	32	33
+MS	0.629911	0.286575
+
+Fs:	2.19807
+p-value: <0.001*
+
+CTLXOS_24th_B-CTLXOS_24th_C	Among	Within	Total
+SS	0.378105	12.6307	13.0088
+df	1	44	45
+MS	0.378105	0.287061
+
+Fs:	1.31716
+p-value: 0.042
+
+CTLXOS_24th_B-CTL_9th_A	Among	Within	Total
+SS	0.901812	8.42692	9.32873
+df	1	29	30
+MS	0.901812	0.290583
+
+Fs:	3.10345
+p-value: <0.001*
+
+CTLXOS_24th_B-CTL_9th_B	Among	Within	Total
+SS	0.54307	8.26381	8.80688
+df	1	29	30
+MS	0.54307	0.284959
+
+Fs:	1.90578
+p-value: 0.001
+
+CTLXOS_24th_B-CTL_9th_C	Among	Within	Total
+SS	0.739888	9.01089	9.75078
+df	1	32	33
+MS	0.739888	0.28159
+
+Fs:	2.62753
+p-value: <0.001*
+
+CTLXOS_24th_B-GOS_24th_A	Among	Within	Total
+SS	0.53247	8.68398	9.21645
+df	1	31	32
+MS	0.53247	0.280128
+
+Fs:	1.90081
+p-value: 0.004
+
+CTLXOS_24th_B-GOS_24th_B	Among	Within	Total
+SS	0.350666	9.21257	9.56324
+df	1	32	33
+MS	0.350666	0.287893
+
+Fs:	1.21804
+p-value: 0.091
+
+CTLXOS_24th_B-GOS_24th_C	Among	Within	Total
+SS	0.598285	8.91388	9.51217
+df	1	32	33
+MS	0.598285	0.278559
+
+Fs:	2.14779
+p-value: 0.001
+
+CTLXOS_24th_B-GOS_9th_A	Among	Within	Total
+SS	0.634052	8.23328	8.86733
+df	1	28	29
+MS	0.634052	0.294046
+
+Fs:	2.1563
+p-value: <0.001*
+
+CTLXOS_24th_B-GOS_9th_B	Among	Within	Total
+SS	0.704434	8.77392	9.47836
+df	1	30	31
+MS	0.704434	0.292464
+
+Fs:	2.40862
+p-value: <0.001*
+
+CTLXOS_24th_B-GOS_9th_C	Among	Within	Total
+SS	0.686185	9.19149	9.87767
+df	1	32	33
+MS	0.686185	0.287234
+
+Fs:	2.38894
+p-value: <0.001*
+
+CTLXOS_24th_B-XOS_9th_A	Among	Within	Total
+SS	0.792829	8.10838	8.90121
+df	1	28	29
+MS	0.792829	0.289585
+
+Fs:	2.73781
+p-value: <0.001*
+
+CTLXOS_24th_B-XOS_9th_B	Among	Within	Total
+SS	0.705182	7.77494	8.48012
+df	1	28	29
+MS	0.705182	0.277676
+
+Fs:	2.53958
+p-value: <0.001*
+
+CTLXOS_24th_B-XOS_9th_C	Among	Within	Total
+SS	0.644767	8.75177	9.39654
+df	1	31	32
+MS	0.644767	0.282315
+
+Fs:	2.28385
+p-value: <0.001*
+
+CTLXOS_24th_C-CTL_9th_A	Among	Within	Total
+SS	0.865667	8.90861	9.77427
+df	1	31	32
+MS	0.865667	0.287374
+
+Fs:	3.01233
+p-value: <0.001*
+
+CTLXOS_24th_C-CTL_9th_B	Among	Within	Total
+SS	0.512763	8.7455	9.25826
+df	1	31	32
+MS	0.512763	0.282113
+
+Fs:	1.81758
+p-value: 0.002
+
+CTLXOS_24th_C-CTL_9th_C	Among	Within	Total
+SS	0.533829	9.49258	10.0264
+df	1	34	35
+MS	0.533829	0.279193
+
+Fs:	1.91204
+p-value: <0.001*
+
+CTLXOS_24th_C-GOS_24th_A	Among	Within	Total
+SS	0.515543	9.16567	9.68121
+df	1	33	34
+MS	0.515543	0.277747
+
+Fs:	1.85616
+p-value: <0.001*
+
+CTLXOS_24th_C-GOS_24th_B	Among	Within	Total
+SS	0.35762	9.69426	10.0519
+df	1	34	35
+MS	0.35762	0.285125
+
+Fs:	1.25426
+p-value: 0.059
+
+CTLXOS_24th_C-GOS_24th_C	Among	Within	Total
+SS	0.411528	9.39557	9.8071
+df	1	34	35
+MS	0.411528	0.27634
+
+Fs:	1.48921
+p-value: 0.014
+
+CTLXOS_24th_C-GOS_9th_A	Among	Within	Total
+SS	0.625162	8.71497	9.34013
+df	1	30	31
+MS	0.625162	0.290499
+
+Fs:	2.15203
+p-value: <0.001*
+
+CTLXOS_24th_C-GOS_9th_B	Among	Within	Total
+SS	0.678708	9.25561	9.93431
+df	1	32	33
+MS	0.678708	0.289238
+
+Fs:	2.34654
+p-value: 0.001
+
+CTLXOS_24th_C-GOS_9th_C	Among	Within	Total
+SS	0.485115	9.67317	10.1583
+df	1	34	35
+MS	0.485115	0.284505
+
+Fs:	1.70512
+p-value: 0.002
+
+CTLXOS_24th_C-XOS_9th_A	Among	Within	Total
+SS	0.750739	8.59006	9.3408
+df	1	30	31
+MS	0.750739	0.286335
+
+Fs:	2.62189
+p-value: <0.001*
+
+CTLXOS_24th_C-XOS_9th_B	Among	Within	Total
+SS	0.632465	8.25663	8.88909
+df	1	30	31
+MS	0.632465	0.275221
+
+Fs:	2.29803
+p-value: <0.001*
+
+CTLXOS_24th_C-XOS_9th_C	Among	Within	Total
+SS	0.503597	9.23346	9.73705
+df	1	33	34
+MS	0.503597	0.279802
+
+Fs:	1.79984
+p-value: <0.001*
+
+CTL_9th_A-CTL_9th_B	Among	Within	Total
+SS	0.364325	4.54174	4.90607
+df	1	16	17
+MS	0.364325	0.283859
+
+Fs:	1.28347
+p-value: 0.093
+
+CTL_9th_A-CTL_9th_C	Among	Within	Total
+SS	0.507743	5.28882	5.79657
+df	1	19	20
+MS	0.507743	0.278359
+
+Fs:	1.82406
+p-value: 0.001
+
+CTL_9th_A-GOS_24th_A	Among	Within	Total
+SS	0.53009	4.96191	5.492
+df	1	18	19
+MS	0.53009	0.275662
+
+Fs:	1.92297
+p-value: <0.001*
+
+CTL_9th_A-GOS_24th_B	Among	Within	Total
+SS	0.59013	5.4905	6.08064
+df	1	19	20
+MS	0.59013	0.288974
+
+Fs:	2.04216
+p-value: 0.003
+
+CTL_9th_A-GOS_24th_C	Among	Within	Total
+SS	0.725836	5.19182	5.91765
+df	1	19	20
+MS	0.725836	0.273253
+
+Fs:	2.65627
+p-value: <0.001*
+
+CTL_9th_A-GOS_9th_A	Among	Within	Total
+SS	0.271453	4.51122	4.78267
+df	1	15	16
+MS	0.271453	0.300748
+
+Fs:	0.902594
+p-value: 0.677
+
+CTL_9th_A-GOS_9th_B	Among	Within	Total
+SS	0.337632	5.05185	5.38949
+df	1	17	18
+MS	0.337632	0.297168
+
+Fs:	1.13617
+p-value: 0.158
+
+CTL_9th_A-GOS_9th_C	Among	Within	Total
+SS	0.478102	5.46942	5.94752
+df	1	19	20
+MS	0.478102	0.287864
+
+Fs:	1.66086
+p-value: 0.012
+
+CTL_9th_A-XOS_9th_A	Among	Within	Total
+SS	0.245363	4.38631	4.63167
+df	1	15	16
+MS	0.245363	0.292421
+
+Fs:	0.839076
+p-value: 0.847
+
+CTL_9th_A-XOS_9th_B	Among	Within	Total
+SS	0.397635	4.05287	4.45051
+df	1	15	16
+MS	0.397635	0.270192
+
+Fs:	1.47168
+p-value: 0.011
+
+CTL_9th_A-XOS_9th_C	Among	Within	Total
+SS	0.560497	5.0297	5.5902
+df	1	18	19
+MS	0.560497	0.279428
+
+Fs:	2.00587
+p-value: <0.001*
+
+CTL_9th_B-CTL_9th_C	Among	Within	Total
+SS	0.285187	5.12571	5.4109
+df	1	19	20
+MS	0.285187	0.269774
+
+Fs:	1.05713
+p-value: 0.292
+
+CTL_9th_B-GOS_24th_A	Among	Within	Total
+SS	0.484163	4.7988	5.28297
+df	1	18	19
+MS	0.484163	0.2666
+
+Fs:	1.81607
+p-value: 0.003
+
+CTL_9th_B-GOS_24th_B	Among	Within	Total
+SS	0.427074	5.32739	5.75447
+df	1	19	20
+MS	0.427074	0.280389
+
+Fs:	1.52315
+p-value: 0.009
+
+CTL_9th_B-GOS_24th_C	Among	Within	Total
+SS	0.573266	5.02871	5.60197
+df	1	19	20
+MS	0.573266	0.264669
+
+Fs:	2.16597
+p-value: <0.001*
+
+CTL_9th_B-GOS_9th_A	Among	Within	Total
+SS	0.336676	4.34811	4.68478
+df	1	15	16
+MS	0.336676	0.289874
+
+Fs:	1.16146
+p-value: 0.163
+
+CTL_9th_B-GOS_9th_B	Among	Within	Total
+SS	0.273528	4.88874	5.16227
+df	1	17	18
+MS	0.273528	0.287573
+
+Fs:	0.951159
+p-value: 0.467
+
+CTL_9th_B-GOS_9th_C	Among	Within	Total
+SS	0.274086	5.30631	5.5804
+df	1	19	20
+MS	0.274086	0.27928
+
+Fs:	0.981404
+p-value: 0.481
+
+CTL_9th_B-XOS_9th_A	Among	Within	Total
+SS	0.348482	4.2232	4.57168
+df	1	15	16
+MS	0.348482	0.281547
+
+Fs:	1.23774
+p-value: 0.111
+
+CTL_9th_B-XOS_9th_B	Among	Within	Total
+SS	0.246822	3.88976	4.13659
+df	1	15	16
+MS	0.246822	0.259318
+
+Fs:	0.951812
+p-value: 0.568
+
+CTL_9th_B-XOS_9th_C	Among	Within	Total
+SS	0.309035	4.86659	5.17563
+df	1	18	19
+MS	0.309035	0.270366
+
+Fs:	1.14302
+p-value: 0.154
+
+CTL_9th_C-GOS_24th_A	Among	Within	Total
+SS	0.569443	5.54589	6.11533
+df	1	21	22
+MS	0.569443	0.26409
+
+Fs:	2.15625
+p-value: <0.001*
+
+CTL_9th_C-GOS_24th_B	Among	Within	Total
+SS	0.480659	6.07448	6.55514
+df	1	22	23
+MS	0.480659	0.276113
+
+Fs:	1.74081
+p-value: 0.001
+
+CTL_9th_C-GOS_24th_C	Among	Within	Total
+SS	0.502961	5.77579	6.27875
+df	1	22	23
+MS	0.502961	0.262536
+
+Fs:	1.91578
+p-value: <0.001*
+
+CTL_9th_C-GOS_9th_A	Among	Within	Total
+SS	0.406595	5.09519	5.50178
+df	1	18	19
+MS	0.406595	0.283066
+
+Fs:	1.4364
+p-value: 0.022
+
+CTL_9th_C-GOS_9th_B	Among	Within	Total
+SS	0.419034	5.63583	6.05486
+df	1	20	21
+MS	0.419034	0.281791
+
+Fs:	1.48704
+p-value: 0.018
+
+CTL_9th_C-GOS_9th_C	Among	Within	Total
+SS	0.257082	6.05339	6.31047
+df	1	22	23
+MS	0.257082	0.275154
+
+Fs:	0.934318
+p-value: 0.627
+
+CTL_9th_C-XOS_9th_A	Among	Within	Total
+SS	0.441138	4.97028	5.41142
+df	1	18	19
+MS	0.441138	0.276127
+
+Fs:	1.59759
+p-value: 0.008
+
+CTL_9th_C-XOS_9th_B	Among	Within	Total
+SS	0.314142	4.63685	4.95099
+df	1	18	19
+MS	0.314142	0.257603
+
+Fs:	1.21949
+p-value: 0.055
+
+CTL_9th_C-XOS_9th_C	Among	Within	Total
+SS	0.230645	5.61368	5.84432
+df	1	21	22
+MS	0.230645	0.267318
+
+Fs:	0.862812
+p-value: 0.848
+
+GOS_24th_A-GOS_24th_B	Among	Within	Total
+SS	0.255709	5.74757	6.00328
+df	1	21	22
+MS	0.255709	0.273694
+
+Fs:	0.934289
+p-value: 0.582
+
+GOS_24th_A-GOS_24th_C	Among	Within	Total
+SS	0.327313	5.44888	5.77619
+df	1	21	22
+MS	0.327313	0.25947
+
+Fs:	1.26146
+p-value: 0.058
+
+GOS_24th_A-GOS_9th_A	Among	Within	Total
+SS	0.430049	4.76828	5.19833
+df	1	17	18
+MS	0.430049	0.280487
+
+Fs:	1.53322
+p-value: 0.017
+
+GOS_24th_A-GOS_9th_B	Among	Within	Total
+SS	0.538584	5.30892	5.8475
+df	1	19	20
+MS	0.538584	0.279417
+
+Fs:	1.92753
+p-value: 0.002
+
+GOS_24th_A-GOS_9th_C	Among	Within	Total
+SS	0.52533	5.72648	6.25181
+df	1	21	22
+MS	0.52533	0.27269
+
+Fs:	1.92648
+p-value: 0.001
+
+GOS_24th_A-XOS_9th_A	Among	Within	Total
+SS	0.472727	4.64337	5.1161
+df	1	17	18
+MS	0.472727	0.27314
+
+Fs:	1.73072
+p-value: 0.003
+
+GOS_24th_A-XOS_9th_B	Among	Within	Total
+SS	0.530164	4.30993	4.8401
+df	1	17	18
+MS	0.530164	0.253526
+
+Fs:	2.09117
+p-value: <0.001*
+
+GOS_24th_A-XOS_9th_C	Among	Within	Total
+SS	0.530126	5.28677	5.81689
+df	1	20	21
+MS	0.530126	0.264338
+
+Fs:	2.00548
+p-value: <0.001*
+
+GOS_24th_B-GOS_24th_C	Among	Within	Total
+SS	0.296157	5.97747	6.27363
+df	1	22	23
+MS	0.296157	0.271703
+
+Fs:	1.09
+p-value: 0.24
+
+GOS_24th_B-GOS_9th_A	Among	Within	Total
+SS	0.447557	5.29687	5.74442
+df	1	18	19
+MS	0.447557	0.29427
+
+Fs:	1.5209
+p-value: 0.016
+
+GOS_24th_B-GOS_9th_B	Among	Within	Total
+SS	0.47321	5.83751	6.31072
+df	1	20	21
+MS	0.47321	0.291875
+
+Fs:	1.62127
+p-value: 0.01
+
+GOS_24th_B-GOS_9th_C	Among	Within	Total
+SS	0.44906	6.25507	6.70413
+df	1	22	23
+MS	0.44906	0.284321
+
+Fs:	1.57941
+p-value: 0.005
+
+GOS_24th_B-XOS_9th_A	Among	Within	Total
+SS	0.513006	5.17196	5.68497
+df	1	18	19
+MS	0.513006	0.287331
+
+Fs:	1.78542
+p-value: 0.003
+
+GOS_24th_B-XOS_9th_B	Among	Within	Total
+SS	0.482546	4.83853	5.32107
+df	1	18	19
+MS	0.482546	0.268807
+
+Fs:	1.79514
+p-value: 0.001
+
+GOS_24th_B-XOS_9th_C	Among	Within	Total
+SS	0.442666	5.81536	6.25802
+df	1	21	22
+MS	0.442666	0.276922
+
+Fs:	1.59852
+p-value: 0.001
+
+GOS_24th_C-GOS_9th_A	Among	Within	Total
+SS	0.549835	4.99818	5.54801
+df	1	18	19
+MS	0.549835	0.277677
+
+Fs:	1.98013
+p-value: 0.001
+
+GOS_24th_C-GOS_9th_B	Among	Within	Total
+SS	0.660686	5.53882	6.1995
+df	1	20	21
+MS	0.660686	0.276941
+
+Fs:	2.38566
+p-value: <0.001*
+
+GOS_24th_C-GOS_9th_C	Among	Within	Total
+SS	0.496169	5.95638	6.45255
+df	1	22	23
+MS	0.496169	0.270745
+
+Fs:	1.83261
+p-value: <0.001*
+
+GOS_24th_C-XOS_9th_A	Among	Within	Total
+SS	0.618073	4.87327	5.49135
+df	1	18	19
+MS	0.618073	0.270737
+
+Fs:	2.28292
+p-value: <0.001*
+
+GOS_24th_C-XOS_9th_B	Among	Within	Total
+SS	0.632759	4.53984	5.1726
+df	1	18	19
+MS	0.632759	0.252213
+
+Fs:	2.50883
+p-value: <0.001*
+
+GOS_24th_C-XOS_9th_C	Among	Within	Total
+SS	0.487505	5.51667	6.00417
+df	1	21	22
+MS	0.487505	0.262698
+
+Fs:	1.85576
+p-value: <0.001*
+
+GOS_9th_A-GOS_9th_B	Among	Within	Total
+SS	0.293133	4.85822	5.15135
+df	1	16	17
+MS	0.293133	0.303639
+
+Fs:	0.965402
+p-value: 0.447
+
+GOS_9th_A-GOS_9th_C	Among	Within	Total
+SS	0.368298	5.27578	5.64408
+df	1	18	19
+MS	0.368298	0.293099
+
+Fs:	1.25656
+p-value: 0.082
+
+GOS_9th_A-XOS_9th_A	Among	Within	Total
+SS	0.254317	4.19267	4.44699
+df	1	14	15
+MS	0.254317	0.299477
+
+Fs:	0.849204
+p-value: 0.802
+
+GOS_9th_A-XOS_9th_B	Among	Within	Total
+SS	0.33333	3.85924	4.19257
+df	1	14	15
+MS	0.33333	0.27566
+
+Fs:	1.20921
+p-value: 0.108
+
+GOS_9th_A-XOS_9th_C	Among	Within	Total
+SS	0.40368	4.83607	5.23975
+df	1	17	18
+MS	0.40368	0.284474
+
+Fs:	1.41904
+p-value: 0.038
+
+GOS_9th_B-GOS_9th_C	Among	Within	Total
+SS	0.338079	5.81642	6.1545
+df	1	20	21
+MS	0.338079	0.290821
+
+Fs:	1.1625
+p-value: 0.142
+
+GOS_9th_B-XOS_9th_A	Among	Within	Total
+SS	0.286598	4.73331	5.01991
+df	1	16	17
+MS	0.286598	0.295832
+
+Fs:	0.968786
+p-value: 0.441
+
+GOS_9th_B-XOS_9th_B	Among	Within	Total
+SS	0.27586	4.39988	4.67573
+df	1	16	17
+MS	0.27586	0.274992
+
+Fs:	1.00315
+p-value: 0.39
+
+GOS_9th_B-XOS_9th_C	Among	Within	Total
+SS	0.428343	5.37671	5.80505
+df	1	19	20
+MS	0.428343	0.282985
+
+Fs:	1.51366
+p-value: 0.015
+
+GOS_9th_C-XOS_9th_A	Among	Within	Total
+SS	0.413178	5.15088	5.56406
+df	1	18	19
+MS	0.413178	0.28616
+
+Fs:	1.44387
+p-value: 0.025
+
+GOS_9th_C-XOS_9th_B	Among	Within	Total
+SS	0.307131	4.81744	5.12457
+df	1	18	19
+MS	0.307131	0.267636
+
+Fs:	1.14757
+p-value: 0.128
+
+GOS_9th_C-XOS_9th_C	Among	Within	Total
+SS	0.260347	5.79427	6.05462
+df	1	21	22
+MS	0.260347	0.275918
+
+Fs:	0.943568
+p-value: 0.6
+
+XOS_9th_A-XOS_9th_B	Among	Within	Total
+SS	0.303094	3.73433	4.03742
+df	1	14	15
+MS	0.303094	0.266738
+
+Fs:	1.1363
+p-value: 0.185
+
+XOS_9th_A-XOS_9th_C	Among	Within	Total
+SS	0.464626	4.71116	5.17579
+df	1	17	18
+MS	0.464626	0.277127
+
+Fs:	1.67658
+p-value: 0.004
+
+XOS_9th_B-XOS_9th_C	Among	Within	Total
+SS	0.333753	4.37772	4.71148
+df	1	17	18
+MS	0.333753	0.257513
+
+Fs:	1.29606
+p-value: 0.06
+

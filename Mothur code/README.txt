@@ -1,0 +1,1 @@
+Download raw miseq output files from the NCBI database from BioProject PRJNA1308109. SRA records are available at: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1308109 (accessed on 20 August 2025).
